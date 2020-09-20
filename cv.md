@@ -5,7 +5,7 @@
 *Telegram:@VitalVer.*
 *Email: vitalwer.js@gmail.com*
 ### 3. Main goals 
-##### in perspective**.
+##### in perspective.
 ### 4. Head of the procurement department in construction.
 ### 5. No code examples.
 ### 6. My work experience. 
