@@ -1,0 +1,26 @@
+.contacts {
+ 
+background-color: aqua;
+text-align: left;
+width: 300px; 
+height: 100px;
+background: rgb(173, 180, 174);
+
+}
+ .work {
+background-color: aqua;
+text-align: left;
+width: 300px; 
+height: 200px;
+background: rgb(173, 180, 174);
+
+
+ }
+ .education {
+    background-color: aqua;
+    text-align: left;
+    width: 300px; 
+    height: 250px;
+    background: rgb(173, 180, 174);
+    
+ }
